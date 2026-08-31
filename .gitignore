@@ -1,10 +1,15 @@
-# Visual Studio / MSBuild
-
+# Visual Studio
+.vs/
 
 # Build directories
 Debug/
 Release/
-
+x64/
+x86/
+out/
 
 # OS files
 
+
+# Claude Code
+.claude/
